@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m @purushothaman404
-- I’m interested in software developing.
 - I have been working as a software engineer at Arka Insurance Broking. 
-  I have experience in both front-end (React js) and back-end (Java). 
+- I have experience in both front-end (React js) and back-end (Java). 
 - Contact: purushspn111@gmail.com
 
 Resume:
