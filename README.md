@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @purushothaman404
 - I have been working as a software engineer at Capgemini Technology Services India Limited. 
-- I have experience in both front-end (React js) and back-end (Java). 
+- I have experience in full-stack development.
 - Contact: purushspn111@gmail.com
 
 Resume:
