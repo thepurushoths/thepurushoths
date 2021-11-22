@@ -5,7 +5,8 @@
 - Contact: purushspn111@gmail.com
 
 Resume:
-[Purushothaman-cv.pdf](https://github.com/purushothaman404/purushothaman404/files/7448912/Purushothaman-cv.pdf)
+
+[Purushothaman-S.pdf](https://github.com/purushothaman404/purushothaman404/files/7582296/Purushothaman-S.pdf)
 
 
 <!---
