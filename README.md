@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @purushothaman404
-- I have experience in full-stack development.
+- Full-stack developer
 - Contact: purushspn111@gmail.com
 
 <!---
