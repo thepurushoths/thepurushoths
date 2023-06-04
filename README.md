@@ -5,6 +5,7 @@
 - Behance: https://www.behance.net/thisispurushoth
 - LinkedIn: https://www.linkedin.com/in/thisispurushoth
 - Twitter: https://twitter.com/thisispurushoth
+- Instagram: https://www.instagram.com/thisispurushoth
 
 <!---
 purushothaman404/purushothaman404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
