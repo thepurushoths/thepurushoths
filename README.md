@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @thisispurushoth
-- Full-stack developer
+- Developer @Thoughtworks
 - Medium: https://www.medium.com/@thisispurushoth
 - Behance: https://www.behance.net/thisispurushoth
 - LinkedIn: https://www.linkedin.com/in/thisispurushoth
