@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @purushothaman404
 - Full-stack developer
-- LinkedIn: https://www.linkedin.com/in/purushoth-s/
 - Medium: https://purushoths.medium.com/
 - Behance: https://www.behance.net/purushoths
+- LinkedIn: https://www.linkedin.com/in/thisispurushoth/
 - Twitter: https://twitter.com/thisispurushoth
 
 <!---
