@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @purushothaman404
+- 👋 Hi, I’m @thisispurushoth
 - Full-stack developer
 - Medium: https://purushoths.medium.com/
 - Behance: https://www.behance.net/purushoths
