@@ -4,7 +4,7 @@
 - Medium: https://www.medium.com/@thisispurushoth
 - Behance: https://www.behance.net/thisispurushoth
 - LinkedIn: https://www.linkedin.com/in/thisispurushoth
-- Twitter: https://twitter.com/thisispurushoth
+- Twitter: https://www.twitter.com/thisispurushoth
 - Instagram: https://www.instagram.com/thisispurushoth
 
 <!---
