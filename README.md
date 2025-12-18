@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @thepurushoths
-- Developer @Thoughtworks
+- Developer
 - Medium: https://www.medium.com/@thepurushoths
 - LinkedIn: https://www.linkedin.com/in/thepurushoths
 - Behance: https://www.behance.net/thepurushoths
