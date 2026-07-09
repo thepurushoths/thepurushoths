@@ -3,6 +3,7 @@
 - Developer @Thoughtworks
 - Medium: https://www.medium.com/@thepurushoths
 - LinkedIn: https://www.linkedin.com/in/thepurushoths
+- LeetCode: https://leetcode.com/u/thepurushoths
 - Behance: https://www.behance.net/thepurushoths
 - Twitter: https://www.twitter.com/thepurushoths
 
