@@ -5,7 +5,6 @@
 - LinkedIn: https://www.linkedin.com/in/thepurushoths
 - LeetCode: https://leetcode.com/u/thepurushoths
 - Behance: https://www.behance.net/thepurushoths
-- Twitter: https://www.twitter.com/thepurushoths
 
 <!---
 purushothaman404/purushothaman404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
